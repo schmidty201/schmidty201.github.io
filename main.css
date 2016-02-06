@@ -2,3 +2,6 @@ img.align-left {
 	float: left;
 	margin-right: 10px;
 }
+body {
+	font-family: arial;
+}
