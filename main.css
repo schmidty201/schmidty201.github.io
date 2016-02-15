@@ -1,6 +1,6 @@
 img.align-left {
 	float: left;
-	margin-right: 10px;
+	margin: 0px auto;
 }
 
 img.small {
