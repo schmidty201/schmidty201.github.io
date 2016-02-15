@@ -4,13 +4,13 @@ img.align-left {
 }
 
 img.small {
-	width: 220;
-	height: 220;
+	width: 60;
+	height: 60;
 }
 body {
-	font-family: arial;
+	font-family: helvetica;
 }
 
 ol.align {
-margin-right: 10px
+margin-right: 15px
 }
