@@ -10,3 +10,7 @@ img.small {
 body {
 	font-family: arial;
 }
+
+ol.align {
+margin-right: 10px
+}
