@@ -1,6 +1,6 @@
 img.align-left {
 	float: left;
-	margin-right: 10px auto;
+	margin-right: 10px;
 }
 
 img.small {
@@ -11,6 +11,6 @@ body {
 	font-family: helvetica;
 }
 
-ol.align {
+li.align {
 margin-right: 15px
 }
