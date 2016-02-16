@@ -1,13 +1,6 @@
-img.align-left {
-	float: left;
-	margin-right: 10px;
-}
-
-img.small {
-	width:200;
-	height: 200;
-}
+/* Move down content because we have a fixed navbar that is 50px tall */
 body {
-	font-family: helvetica;
+  padding-top: 50px;
+  padding-bottom: 20px;
 }
 
